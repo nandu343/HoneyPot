@@ -1,5 +1,5 @@
 # Honey Pot
-Currently a pretty basic honeypot that will set up a listening port on 8080.
+Currently a pretty basic honeypot that will set up a listening port on 8080. It tries to install a Swift on Security sysmon config file and sets up a fake ssh server that will log any input and shut down the service.
 
 ## Installing
 You can create an exe  by running in dotnet CLI: 
