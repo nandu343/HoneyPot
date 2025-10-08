@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HoneyPot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99bfb09b12892508861d9c276d91943111490e05")]
 [assembly: System.Reflection.AssemblyProductAttribute("HoneyPot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HoneyPot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
